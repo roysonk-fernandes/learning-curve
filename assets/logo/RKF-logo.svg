@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="494.99219"
+   height="494.992"
+   viewBox="0 0 130.96668 130.96663"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="RKF-logo.svg"
+   inkscape:export-filename="favicon-white-64.png"
+   inkscape:export-xdpi="12.412317"
+   inkscape:export-ydpi="12.412317"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.5340488"
+     inkscape:cx="317.7865"
+     inkscape:cy="328.86829"
+     inkscape:window-width="2880"
+     inkscape:window-height="1694"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="1.503982e-14"
+       originy="-6.6039381"
+       spacingx="0.26458332"
+       spacingy="0.26458332"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="1.503982e-14"
+       originy="-6.6039381"
+       spacingx="0.26458332"
+       spacingy="0.26458332"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="1.503982e-14"
+       originy="-6.6039381"
+       spacingx="0.26458332"
+       spacingy="0.26458332"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.480184,-91.992365)">
+    <path
+       id="rect4"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:66.7659"
+       d="m 78.764367,127.71557 v 0.006 H 52.510156 l 11.713497,7.99955 h 14.540714 v 0.002 a 9.260416,9.2710977 0 0 1 8.202083,9.21029 9.260416,9.2710977 0 0 1 -8.202083,9.21081 v 0.002 h -8.205184 -10.540442 -0.05581 l 7.070886,8.00519 22.171773,25.10597 H 99.800808 L 77.629035,162.15124 h 1.135332 0.1757 v -5.2e-4 A 17.197916,17.217753 0 0 0 95.962283,144.93368 17.197916,17.217753 0 0 0 79.025849,127.73314 v -0.0114 h -0.174666 a 17.197916,17.217753 0 0 0 -0.08682,-0.006 z m 68.995783,0.0109 v 7.93754 h 28.3316 l 7.38508,-7.93754 z m -10.88977,0.004 -18.47898,9.25684 -11.83493,14.65131 -5.29115,6.41459 4.53667,5.40019 0.80874,0.96221 11.78067,14.90504 18.08727,7.9375 -24.57731,-29.25662 z m 13.5356,23.80893 -7.9375,6.61458 v 1.32292 20.37291 l 7.9375,7.40834 V 159.4769 h 15.875 l 11.90625,-7.9375 z" />
+  </g>
+</svg>
